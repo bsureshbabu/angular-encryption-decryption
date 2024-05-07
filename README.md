@@ -1,3 +1,10 @@
+ng new angular-encryption-decryption
+ng generate component component-name
+ng generate service service-name
+
+
+
+
 # TestPro
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
